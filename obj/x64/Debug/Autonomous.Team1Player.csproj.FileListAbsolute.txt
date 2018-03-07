@@ -1,6 +1,0 @@
-C:\workepam\autonomous\bin\x64\Autonomous.Team1Player.dll
-C:\workepam\autonomous\bin\x64\Autonomous.Team1Player.pdb
-C:\workepam\autonomous\Automonous.Team1Player\obj\x64\Debug\Autonomous.Team1Player.csprojResolveAssemblyReference.cache
-C:\workepam\autonomous\Automonous.Team1Player\obj\x64\Debug\Autonomous.Team1Player.csproj.CoreCompileInputs.cache
-C:\workepam\autonomous\Automonous.Team1Player\obj\x64\Debug\Autonomous.Team1Player.dll
-C:\workepam\autonomous\Automonous.Team1Player\obj\x64\Debug\Autonomous.Team1Player.pdb
